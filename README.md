@@ -38,3 +38,9 @@ When using this dataset, please cite:
 
 Alles, Santiago. 2018. <i>Gubernatorial Elections in Argentina, 1973-2017</i>. Data version: v20180108.<br />Available at: http://santiago-alles.net/governors_data.
 
+Data Releases
+------------------
+
+Previous releases of this dataset:
+<pre>"Governors in Argentina, 1983-2015," v20170504
+"Governors in Argentina, 1983-2015," v20161124</pre>

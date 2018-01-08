@@ -9,8 +9,8 @@ Governors are powerful actors, with abundant fiscal resources; large influence o
 This dataset provides information of the gubernatorial elections in Argentina since 1973. It comprises information of:
 
 (a) elected governors and lieutenant governors,<br />
-(b) election results, and<br />
-(c) election rules.
+(b) gubernatorial election rules, and<br />
+(c) results of the gubernatorial election.
 
 In total, the data contain information on 236 gubernatorial elections that occurred in Argentina from 1973 through 2017.
 

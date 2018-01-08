@@ -27,7 +27,7 @@ file <- 'ProvGov_ARG19732017_v20180108.csv'
 read_csv(paste(url, file, sep='/')) -> dat
 </code></pre>
 
-Special characters may appear in name and last name variables. Character strings might be converted to <code>UTF-8</code> encoding using <code>iconv</code>:
+Special characters may appear in string variables (e.g., name and last name, party labels, etcetera). Character strings might be converted to <code>UTF-8</code> encoding using <code>iconv</code>:
 
 <pre><code>iconv(x, from = 'latin1', to = 'UTF-8')</code></pre>
 

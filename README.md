@@ -36,7 +36,7 @@ Suggested Citation
 
 When using this dataset, please cite:
 
-Alles, Santiago. 2018. <i>Gubernatorial Elections in Argentina, 1973-2017</i>. Data version: v20180108.<br />Available at: http://santiago-alles.net/governors_data.
+<b>Alles</b>, Santiago. 2018. <i>Gubernatorial Elections in Argentina, 1973-2017</i>. Data version: v20180108.<br />Available at: http://santiago-alles.net/governors_data.
 
 Data Releases
 ------------------

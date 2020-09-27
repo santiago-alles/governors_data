@@ -6,7 +6,7 @@ Last update:
 ------------------
 01-08-2018
 
-Governors are powerful actors in Latin American federal countries, and Argentina is an example of a robust federal system.
+</br >Governors are powerful actors in Latin American federal countries, and Argentina is an example of a robust federal system.
 
 Governors are powerful actors, with abundant fiscal resources; large influence over the organization of national parties, candidate nomination and the career of national legislators; a predominant position in state-level elections; and an active participation in the national policymaking process.
 
